@@ -53,3 +53,8 @@ body {
 #introduction {
     padding-left: 8px;
 }
+
+.hand {
+    padding: 0px;
+    margin-right: 0px;
+}
