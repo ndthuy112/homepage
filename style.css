@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 #header {
@@ -52,4 +52,8 @@ body {
 
 #introduction {
     padding-left: 8px;
+}
+
+.hand {
+    display: flex;
 }
